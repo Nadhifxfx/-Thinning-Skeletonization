@@ -69,5 +69,6 @@ for ax in axs:
 plt.tight_layout()
 plt.show()
 ```
+**Output :**
 ![download](https://github.com/user-attachments/assets/4def1768-2b57-4c0c-b256-f90c656e70c2)
 
