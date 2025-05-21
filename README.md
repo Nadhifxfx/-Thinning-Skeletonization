@@ -1,0 +1,1 @@
+# Tugas-hit-or-Miss-Thinning-dan-Skeletonization
